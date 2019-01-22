@@ -10,7 +10,7 @@ public class Data {
 	public static final int FRAME_WIDTH = 1100;
 	public static final int FRAME_HEIGHT = 1000;
 	
-	public static final String SOUND_FOLDER_ADDRESS = "C:\\Public\\Documents\\Koubox";
+	public static final String SOUND_FOLDER_ADDRESS = "C:\\Users\\Public\\Documents\\Koubox";
 	public static final File SOUND_FOLDER = new File(SOUND_FOLDER_ADDRESS);
 	public static ArrayList<File> SOUND_FILES = new ArrayList<File>();
 	
